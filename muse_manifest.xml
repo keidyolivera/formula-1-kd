@@ -1,0 +1,157 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kounkj.COM" resolutions="1x" timestamp="1624926047865">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="473739141" ref="index:historia:participantes:galeria"/>
+    <file name="index.css" crc="372649905" ref="index"/>
+    <file name="historia.css" crc="476053294" ref="historia"/>
+    <file name="participantes.css" crc="4205663292" ref="participantes"/>
+    <file name="galeria.css" crc="3996302786" ref="galeria"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:participantes:historia:galeria"/>
+    <file name="museutils.js" crc="3803043152" ref="index:participantes:historia:galeria"/>
+    <file name="whatinput.js" crc="86476730" ref="index:participantes:historia:galeria"/>
+    <file name="museconfig.js" crc="380897831" ref="index:participantes:historia:galeria"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:participantes:historia:galeria"/>
+    <file name="webpro.js" crc="242022427" ref="index:participantes:historia:galeria"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:participantes:historia:galeria"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:participantes:historia:galeria"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:participantes:historia:galeria"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:participantes:historia:galeria"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:historia:galeria"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:participantes:historia:galeria"/>
+    <file name="require.js" crc="4157109226" ref="index:participantes:historia:galeria"/>
+  </folder>
+  <folder name="images">
+    <file name="descargar (1)-crop-u320.jpg" crc="445126236" seo="true" ref="index:participantes:historia:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="participantes" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:participantes:historia:galeria"/>
+    <file name="descargar (1)-crop-u425.jpg" crc="4247500484" seo="true" ref="index:participantes:historia:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="participantes" alt=""/>
+    </file>
+    <file name="descargar-crop-u445.jpg" crc="466056237" seo="true" ref="index:participantes:historia:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="participantes" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:historia"/>
+    <file name="abajo.png" crc="396292291" seo="true" ref="index:participantes:historia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="participantes" alt=""/>
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="fórmula-uno-u729-fr.jpg" crc="3794827885" ref="index"/>
+    <file name="u730.png" crc="4220579662" ref="index"/>
+    <file name="u730-r.png" crc="501638421" ref="index"/>
+    <file name="1587025929_482467_1587027894_noticia_normal.jpg" crc="4046996473" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u725_states.png" crc="4220579662" ref="index"/>
+    <file name="u725_states-r.png" crc="310869734" ref="index"/>
+    <file name="descargar (3).jpg" crc="3985475942" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u758.png" crc="4220579662" ref="index"/>
+    <file name="u758-r.png" crc="420414744" ref="index"/>
+    <file name="descargar (4).jpg" crc="3983421923" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u744_states.png" crc="243435071" ref="index"/>
+    <file name="u744_states-r.png" crc="3885751647" ref="index"/>
+    <file name="arriba.png" crc="180907419" seo="true" ref="index:participantes:historia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="participantes" alt=""/>
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="descargar (1)-crop-u783.jpg" crc="445126236" seo="true" ref="index:participantes:historia:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="participantes" alt=""/>
+    </file>
+    <file name="descargar (1)-crop-u787.jpg" crc="4269491392" seo="true" ref="index:participantes:historia:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="participantes" alt=""/>
+    </file>
+    <file name="descargar-crop-u785.jpg" crc="466056237" seo="true" ref="index:participantes:historia:galeria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="participantes" alt=""/>
+    </file>
+    <file name="captura.jpg" crc="513434230" seo="true" ref="participantes">
+      <caption webpage="participantes" alt=""/>
+    </file>
+    <file name="capturaouhlhv.jpg" crc="425180140" seo="true" ref="participantes">
+      <caption webpage="participantes" alt=""/>
+    </file>
+    <file name="53993405_303-crop-u1249.jpg" crc="3984305075" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="16227903285311-crop-u1386.jpg" crc="3953250664" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="descargar-crop-u1406.jpg" crc="319076480" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="fórmula-uno-crop-u1426.jpg" crc="463329222" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="fp1-francia-1-crop-u1446.jpg" crc="3781086118" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="images-crop-u1466.jpg" crc="329210323" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="images-crop-u1486.jpg" crc="4279544539" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u1506.jpg" crc="4275826357" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="u1529-19.png" crc="4089686630" ref="historia"/>
+    <file name="1ad99b25633d5697e9eee5aa33d7f8bf8df69732-u1545-fr.jpg" crc="174224684" ref="historia"/>
+    <file name="bhh-u1544-fr.jpg" crc="3780373555" ref="historia"/>
+    <file name="1ad99b25633d5697e9eee5aa33d7f8bf8df69732-u1535-fr.png" crc="4161239904" ref="historia"/>
+    <file name="1ad99b25633d5697e9eee5aa33d7f8bf8df69732.jpg" crc="4196020152" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="bhh.jpg" crc="199818344" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="fórmula-uno-u2415-fr.jpg" crc="3928009853" ref="galeria"/>
+    <file name="descargar.jpg" crc="107716538" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="16227903285311-u2351-fr.jpg" crc="4232133946" ref="galeria"/>
+    <file name="53993405_303-u2434-fr.jpg" crc="249221082" ref="galeria"/>
+    <file name="1ad99b25633d5697e9eee5aa33d7f8bf8df69732-u2428-fr.jpg" crc="4201762945" ref="galeria"/>
+    <file name="descargar (2).jpg" crc="38760373" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="16227903285311.jpg" crc="3817356753" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="fórmula-uno.jpg" crc="4166004627" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="1ad99b25633d5697e9eee5aa33d7f8bf8df69732-u2431-fr.jpg" crc="259187428" ref="galeria"/>
+    <file name="53993405_303.jpg" crc="156346314" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4016297258" seo="true" mt="1624688722283" redirect="true"/>
+  <file name="participantes.html" crc="176504036" seo="true" mt="1624687713785" redirect="true"/>
+  <file name="historia.html" crc="323854342" seo="true" mt="1624687713785" redirect="true"/>
+  <file name="galeria.html" crc="15200157" seo="true" mt="1624688931526" redirect="true"/>
+</manifest>
